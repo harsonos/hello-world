@@ -1,6 +1,6 @@
 # hello-world
 My first repository
 
-Hello World..
+Hello World!
 
-Check this out!
+Check this out yo!
